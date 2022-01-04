@@ -1,0 +1,23 @@
+{
+  "name": "testesCypress",
+  "version": "1.0.0",
+  "description": "Meu primeiro teste em Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorfederizi/testesCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorfederizi/testesCypress/issues"
+  },
+  "homepage": "https://github.com/igorfederizi/testesCypress#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}
