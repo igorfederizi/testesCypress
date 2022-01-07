@@ -49,6 +49,5 @@ Cypress.Commands.add('gui_createContract', () => {
         cy.get('.v-dialog').scrollTo('top');
         cy.contains('Save').should('be.visible').click();
     
-
-
 })
+
